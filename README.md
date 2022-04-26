@@ -8,3 +8,5 @@ Nexus Electronics SENSE Library for Raspberry Pi.
 This library is a group of library files and demo code from Adafruit, assembled to work for SENSE.
 
 Support Adafruit and their library development at Adafruit.com
+
+** PDM microphone support in development 
